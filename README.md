@@ -9,3 +9,5 @@ How to run model testing code:
 The code has been tested in an environment running Python 3 (3.7.13) with the following packages installed: pandas, numpy, matplotlib, imblearn, sklearn, joblib
 
 The full datatset has been included in the zip file (‘bank.csv’) should you want to run the full code, but only the test sets (X_test.csv, y_test.csv) and the models (SVM_Best.joblib, MLP_Best.joblib) are needed to run the model testing section.
+
+The PDF report of the model comparison can be viewed as 'Report.pdf' above
